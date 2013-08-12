@@ -18,8 +18,8 @@
  * Version details
  *
  * @package    block
- * @subpackage blog_menu
- * @copyright  1999 onwards Martin Dougiamas (http://dougiamas.com)
+ * @subpackage course_kent
+ * @copyright  2013 Andy Ekins
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -27,4 +27,4 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->version   = 2012112900;        // The current plugin version (Date: YYYYMMDDXX)
 $plugin->requires  = 2012112900;        // Requires this Moodle version
-$plugin->component = 'block_blog_menu'; // Full name of the plugin (used for diagnostics)
+$plugin->component = 'block_course_kent'; // Full name of the plugin (used for diagnostics)
