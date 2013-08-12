@@ -16,7 +16,7 @@
  
  
 /**
- * This is a a block that diplays all courses
+ * This is a block that diplays all courses
  *
  * The block displays the shortname and fullname of every course
  * sorted in alphabetical order by shortname.
