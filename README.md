@@ -1,2 +1,2 @@
-course-kent
+course_kent
 ==================
