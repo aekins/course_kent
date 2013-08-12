@@ -15,13 +15,13 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Version details
- *
- * @package    block
- * @subpackage course_kent
- * @copyright  2013 Andy Ekins
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
- */
+* Version details
+*
+* @package block_course_kent
+* @category navigation
+* @copyright 2013 Andy Ekins
+* @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+*/
 
 defined('MOODLE_INTERNAL') || die();
 
