@@ -16,12 +16,12 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'block_blog_menu', language 'en', branch 'MOODLE_20_STABLE'
+ * Strings for component 'block_course_kent', language 'en'
  *
- * @package   block_blog_menu
- * @copyright 1999 onwards Martin Dougiamas  {@link http://moodle.com}
+ * @package   block_course_kent
+ * @copyright 2013 Andy Ekins
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['blog_menu:addinstance'] = 'Add the Kent course list';
+$string['course_kent:addinstance'] = 'Add the Kent course list';
 $string['pluginname'] = 'All Courses';
