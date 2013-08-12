@@ -1,2 +1,2 @@
-moodle-course-list
+course-kent
 ==================
