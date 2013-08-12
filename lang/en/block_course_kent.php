@@ -16,12 +16,13 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'block_course_kent', language 'en'
- *
- * @package   block_course_kent
- * @copyright 2013 Andy Ekins
- * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
- */
+* Strings for component 'block_course_kent', language 'en'
+*
+* @package block_course_kent
+* @category navigation
+* @copyright 2013 Andy Ekins
+* @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+*/
 
 $string['course_kent:addinstance'] = 'Add the Kent course list';
 $string['pluginname'] = 'All Courses';
