@@ -61,7 +61,7 @@ class block_course_kent extends block_base {
 
         // These are the parameters used withn the SQL statement
 	$params = array(SITEID);
-        $where = 'id != 1';
+        $where = 'id != ?';
 	$sort = 'shortname';
 
         // Testing to see if we bring any data back from the SQL statement.
